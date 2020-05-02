@@ -1,7 +1,6 @@
 *{
 	box-sizing: border-box;
 	transition: 1s;
-	font-family: 'Pacifico';
 }
 .th{
 	font-family: 'Bad Script';
@@ -24,8 +23,13 @@ background: black;
 .intro{
 	background-color: #000;
 }
+.sub{
+	font-family: 'Pacifico';
+}
 p{
-	font-family: 'Roboto Slab';}
+	font-family: 'Roboto Slab';
+	font-size: 28px;
+	}
 .crew{
 font-family: 'Kreon';
 }
